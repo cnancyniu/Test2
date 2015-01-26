@@ -1,4 +1,4 @@
-
+  
 @font-face {
     font-family: LFT_Etica_Book;
     src: url('fonts/LFT_Etica_Book.otf');
@@ -8,6 +8,9 @@
 
     font-family: LFT_Etica_Reg;
     src: url('LFT_Etica_Reg.otf');  
+    
+    font-family: Arial;
+    src: url('Arial.ttf');
 }
 
 body {
@@ -59,6 +62,12 @@ p {
     font-style: regular;
     border-right: 30px;
     line-height: 25px;
+}
+
+.arrow{
+    font-family: Arial;
+    font-style: regular;
+    font-size: 22px;
 }
 
 .intro1, .intro2 {
