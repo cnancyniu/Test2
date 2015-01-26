@@ -26,7 +26,8 @@ body {
 .main, .logo {
     max-width: 940px; 
     width: 85%;
-    margin: 0 auto;   
+    margin-right: auto;
+    margin-left: auto;
 }
 
 h1 {
