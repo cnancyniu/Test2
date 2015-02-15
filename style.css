@@ -97,7 +97,7 @@ p {
 
 .DottedLineLong {
     width: 100%;
-    border-top: 1px dotted #31393b;
+    border-top: 1px solid #31393b;
     margin: 50px auto 50px auto;
     display: block;
     clear: both;
