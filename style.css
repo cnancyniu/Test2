@@ -15,18 +15,19 @@ body {
     font-family: LFT_Etica_Book;
     font-size: 16px;
     color: #abadad; 
-    margin: 0 auto;
 }
 
 .topline {
-    width:100%;
+    width: 100%;
     border-top: 2px solid #e85951;
+    margin: -8px;
 }
 
 .main, .logo {
-    max-width: 940px;
+    max-width: 940px; 
     width: 85%;
-    margin: 0 auto;   
+    margin-right: auto;
+    margin-left: auto;
 }
 
 h1 {
@@ -66,7 +67,7 @@ p {
 }
 
 .checkout {
-    color:#01bfc1;
+    color: #01bfc1;
     cursor: pointer;
 }
 
@@ -78,7 +79,7 @@ p {
 .price {
     font-family: Quatro Slab;
     font-size: 24px;
-    color:#ffffff;
+    color: #ffffff;
 }
 
 .button {
@@ -87,7 +88,7 @@ p {
     left: 55px;
     text-transform: uppercase;
     background-color: #01ccce;
-    color:#ffffff;
+    color: #ffffff;
     width: 120px;
     height: 28px;
     text-align: center;
